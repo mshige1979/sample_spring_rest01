@@ -1,0 +1,2 @@
+# sample_spring_rest01
+RestApiのテストサンプル配置
